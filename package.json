@@ -1,6 +1,6 @@
 {
   "name": "chronode",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Chronometer to measure nodejs algos.",
   "main": "index.js",
   "scripts": {
